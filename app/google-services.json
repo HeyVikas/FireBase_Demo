@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487345717692",
+    "project_id": "fir-demo-70373",
+    "storage_bucket": "fir-demo-70373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487345717692:android:46336ad7601171b7adabb9",
+        "android_client_info": {
+          "package_name": "com.vikas.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAZyLaqW-YWvz7cndeCAZzhsyEkkxszM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
